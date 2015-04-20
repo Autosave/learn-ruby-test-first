@@ -1,0 +1,6 @@
+require "spec_helper"
+
+def hello
+  "Hello!"
+end
+  
